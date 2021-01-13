@@ -21,9 +21,7 @@
         </header>
 
         <?php
-        
-        /* Aqui será o corpo do site...*/
-        
+        /* Aqui será o corpo do site... */
         ?>
 
         <footer>
