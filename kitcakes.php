@@ -20,7 +20,11 @@
 
         </header>
 
-        <-- Aqui será escrito o corpo do site.-->
+        <?php
+        
+        /* Aqui será o corpo do site...*/
+        
+        ?>
 
         <footer>
 
