@@ -11,7 +11,7 @@
             </div>
             <div class="col py-5">
                 <img class="img-fluid img-thumbnail arredondado"src="https://www.placehold.it/70x70" alt="">
-                <h5>Teste</h5>
+                <h5>Kit Cakes</h5>
                 <small>&copy Todos os direitos reservados</small>
             </div>
             <div class="col">
