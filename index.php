@@ -19,7 +19,7 @@ if ($pg) {
         case 'contatos':
             // Incluir a página contato
 
-            include_once 'paginas/includes/header.php';
+           
             include_once 'paginas/contatos.php';
             include_once 'paginas/includes/footer.php';
 
@@ -30,7 +30,7 @@ if ($pg) {
         case 'produtos':
             // Incluir a página produtos
 
-            include_once 'paginas/includes/header.php';
+            
             include_once 'paginas/produtos.php';
             include_once 'paginas/includes/footer.php';
             break;
