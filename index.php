@@ -34,6 +34,15 @@ if ($pg) {
             include_once 'paginas/produtos.php';
             include_once 'paginas/includes/footer.php';
             break;
+        case 'obrigado':
+            // Incluir a página produtos
+
+            
+            include_once 'paginas/obrigado.php';
+            
+            break;
+        
+        
 
 
         default:

@@ -1,1 +1,1 @@
-Contatos de teste..
+<a href="?pg=obrigado" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Link primário</a>
