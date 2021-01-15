@@ -21,7 +21,7 @@ if ($pg) {
 
            
             include_once 'paginas/contatos.php';
-            include_once 'paginas/includes/footer.php';
+            
 
             break;
 
@@ -32,7 +32,7 @@ if ($pg) {
 
             
             include_once 'paginas/produtos.php';
-            include_once 'paginas/includes/footer.php';
+            
             break;
         case 'obrigado':
             // Incluir a página produtos
